@@ -1,9 +1,7 @@
-## Análise de crédito bancario utilizando o Jupyter como ambiente virtual e o python
+ ## Análise de crédito bancario utilizando o Jupyter como ambiente virtual e o Python
 
-Este projeto é uma analise de dados utilizando Inteligencia Artificial, para dexobrir quais são osmelhores dos novos clientes com o melhor Score bancario. 
-
-## Linguagem e Biliotecas útilizadas
--Python
+ Este projeto é uma analise de dados utilizando Inteligencia Artificial, para descobrir quais são o scoree dos onvoso clientes de uma das tres profissões, Empresários e advogado.
+## Bibliotecas utilizadas
 <br>
 -Pandas
 <br>
@@ -11,4 +9,6 @@ Este projeto é uma analise de dados utilizando Inteligencia Artificial, para de
 
 ## Instalação
 1. Baixei todos os arquivos
-2. Adicione o caminho da sua pasta C:Users/
+2. Adicione o caminho da sua pasta "C:Users/nomeusuario/pastalocal/clientes.csv"
+
+   
