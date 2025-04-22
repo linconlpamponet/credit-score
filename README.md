@@ -1,6 +1,6 @@
  ## Análise de crédito bancário utilizando  Jupyter como ambiente virtual e o Python
 
- Este projeto é uma analise de dados utilizando Inteligência Artificial, para descobrir<br> quais são o score dos novos clientes de uma das tres profissões, Empresários e advogado.
+ Este projeto é uma analise de dados utilizando Inteligência Artificial, para descobrir<br> quais são o score dos novos clientes de duas  profissões, Empresário e advogado.
 ## Bibliotecas utilizadas
 -Pandas
 <br>
